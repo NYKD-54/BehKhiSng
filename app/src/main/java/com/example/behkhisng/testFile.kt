@@ -18,6 +18,7 @@ class testFile : AppCompatActivity() {
     {
         System.out.println("hello");
         System.out.println("world");
+        System.out.println("ya");
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
